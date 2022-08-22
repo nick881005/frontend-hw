@@ -1,0 +1,30 @@
+<div class="card my-5">
+  <div class="card-body">
+    <table class="table table-bordered table-striped">
+      <thead class="thead-dark">
+      <tr>
+        <th scope="col">id</th>
+        <th scope="col">name</th>
+        <th scope="col">age</th>
+        <th scope="col">edit</th>
+        <th scope="col">delete</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let user of users ">
+        <td>{{ user.id}}</td>
+        <td>{{ user.name }}</td>
+        <td>{{ user.age }}</td>
+        <td><li class="list-inline-item">
+          <a routerLink="/edituser" class="btn btn-info" style="background-color: blue;">edit User</a>
+            </li>
+        </td>
+        <td><li class="list-inline-item">
+          <a routerLink="/deleteuser" class="btn btn-info" style="background-color: red;">delete User</a>
+            </li>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
