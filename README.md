@@ -1,4 +1,4 @@
-先啟動intelllij檔案，再打開vscode檔案，並在終端機打上 ng serve --open 以打開通道
+先啟動intelllij （user data）檔案，再打開vscode檔案，並在終端機打上 ng serve --open 以打開通道
 
 get user可以得到所有user id name and age
 
