@@ -1,3 +1,21 @@
+先啟動intelllij檔案，再打開vscode檔案，並在終端機打上 ng serve --open 以打開通道
+
+get user可以得到所有user id name and age
+
+create user可以新增user資料
+
+後面edit user 和 delete user 按鍵功能沒有完全，不能做刪改
+
+以下為示意圖
+
+
+<img width="1512" alt="截圖 2022-08-22 下午7 29 44" src="https://user-images.githubusercontent.com/101085201/185917659-938667c4-6738-49ac-acdf-6b19e5752282.png">
+
+
+
+
+
+
 # Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
