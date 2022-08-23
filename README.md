@@ -11,7 +11,8 @@ delete 可以立即刪除資料
 以下為示意圖
 
 
-<img width="1512" alt="截圖 2022-08-22 下午7 29 44" src="https://user-images.githubusercontent.com/101085201/185917659-938667c4-6738-49ac-acdf-6b19e5752282.png">
+
+<img width="1512" alt="截圖 2022-08-23 下午4 04 34" src="https://user-images.githubusercontent.com/101085201/186105705-8ce9581a-14ed-407c-ada5-68d39f789788.png">
 
 
 
