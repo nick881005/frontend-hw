@@ -4,7 +4,9 @@ get user可以得到所有user id name and age
 
 create user可以新增user資料
 
-後面edit user 和 delete user 按鍵功能沒有完全，不能做刪改
+edit 可以更改user資料
+
+delete 可以立即刪除資料
 
 以下為示意圖
 
